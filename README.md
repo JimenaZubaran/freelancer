@@ -1,7 +1,7 @@
 # Freelancer
 
 ***
-## Flujo de trabajo
+## Flujo de trabajo.
 
 1. Hacer la estructura básica del html y linkear el archivo html al css
 2. Buscar la fuente y linkearlo al head
@@ -28,4 +28,4 @@
 9.1 Colocar los textos y los iconocs necesarios
 9.2 Acomodarlos en div y ponerles display inline de manera centrada
 10. Hacer el footer
-10.1 Colocar el texto centrado 
+10.1 Colocar el texto centrado
